@@ -18,8 +18,8 @@ cd lalsuite-EccIMR_22
 git checkout EccIMR-dev
 ```
 
-- Now `EccHybIMR22` can be called through `PyCBC` package. See [tutorial model pycbc](https://github.com/dipakpratul2014/EccIMR_22_model/blob/main/tutorial%20notebooks/tutorial_model_pycbc.ipynb).
-- `EccHybIMR22` can also be used via `GWSignal`. See [tutorial model GWSignal](https://github.com/dipakpratul2014/EccIMR_22_model/blob/main/tutorial%20notebooks/tutorial_model_GWSignal.ipynb).
+- Now `EccHybIMR22` can be called through `PyCBC` package. See [tutorial model pycbc](https://github.com/dipakpratul2014/EccHybIMR22/blob/main/tutorial_model_pycbc.ipynb).
+- `EccHybIMR22` can also be used via `GWSignal`. See [tutorial model GWSignal](https://github.com/dipakpratul2014/EccHybIMR22/blob/main/tutorial_model_GWSignal.ipynb).
 
 --------------------------------------------------------------------------------------------------------
 ### Required packages 
