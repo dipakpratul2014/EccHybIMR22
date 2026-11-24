@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="EcchybIMR_22",
+    name="EccHybIMR22",
     version="1.0.0",
     description="Plugin providing eccentric IMR 22 waveform model",
     author="P. Manna, T. Roychowdhury, C.K. Mishra",
@@ -25,7 +25,7 @@ setup(
 
     entry_points={
         "pycbc.waveform.td": [
-            "EcchybIMR_22=eccentric_wrapper_ecctd:eccmodel_wrapper",
+            "EccHybIMR22=eccentric_wrapper_ecctd:eccmodel_wrapper",
         ],
     },
 
